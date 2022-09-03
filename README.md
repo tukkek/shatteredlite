@@ -1,6 +1,6 @@
 # Shatteredlite
 
-Are you tired of going through Act 1 every single time you begin a new playthrough of [Grim Dawn](https://www.grimdawn.com)? **Shatteredlite** is a mod for Grim Dawn's [Shattered Realm](https://grimdawn.fandom.com/wiki/The_Shattered_Realm), allowing you to enjoy more immediate content variety and to play the game as a roguelite.
+Are you tired of going through Act 1 every single time you begin a new playthrough of [Grim Dawn](https://www.grimdawn.com)? **Shatteredlite** is a mod for Grim Dawn's [Shattered Realm](https://grimdawn.fandom.com/wiki/The_Shattered_Realm), allowing you to enjoy more immediate content variety and to **play the game as a roguelite**.
 
 Features:
 
@@ -13,7 +13,7 @@ Features:
 1. [Download the latest release of Shatteredlite](https://github.com/tukkek/shatteredlite/releases/latest/).
 2. Extract the ZIP file inside Grim Dawn's `mods` folder.
 
-If you are using [Steam](https://store.steampowered.com), to find the game's installation you can right-click on *Grim Dawn* in your games list and select *Manage 🡲 Browse local files*. It should look something like this:
+If you are using [Steam](https://store.steampowered.com), to find the game's installation you can right-click on *Grim Dawn* in your games list and select *Manage → Browse local files*. It should look something like this:
 
     .../steamapps/common/Grim Dawn/
 
@@ -45,7 +45,7 @@ After all, why shouldn't Grim Dawn be a roguelite? It has unlimited possibilites
 
 Unlocking the Shattered Realm early provides access to over 70 different maps and deeper gameplay compared to early open-world leveling. It's the closest experience to a true roguelite you can get in Grim Dawn, while leveraging the official content already in the game for the most balance and polish.
 
-While there are alternatives to accessing more content early on, they are all clunky, meta-gamey and often hurting early-game balance and progression. The players who are even aware they exist use those because it's the lesser of two evils, not necessarily because they're enjoyable or the best approach to increasing earlyr eplay-value.
+While there are alternatives to accessing more content early on, they are all clunky, meta-gamey and often hurting early-game balance and progression. The players who are even aware they exist use those because it's the lesser of two evils, not necessarily because they're enjoyable or the best approach to increasing early replay-value.
 
 ## Balance
 
@@ -75,11 +75,11 @@ Players who disagree with this assessment can discard the freebies received and 
 
 Testing a variety of builds has shown the freebies to be necessary - being barely enough to complete the first shard when using consumables liberally and somewhat less so when being more frugal and mindful during gameplay.
 
-Attempting a first shard without any extra consumables is doable but requires a lot of kiting, active management of constitution and food rations/vital essences drops. Some character builds will also struggle more than others (for example, those depending on close-range weapon attacks). This is doable but more like a "nightmare mode" that wouldn't be welcoming to most players (and very different from the balance found otherwise in the vanilla early game).
+Attempting a first shard without any extra consumables is doable but requires a lot of kiting, active management of constitution and food rations or vital essences drops. Some character builds will also struggle more than others (for example, those depending on close-range weapon attacks). This is doable but more like a "nightmare mode" that wouldn't be welcoming to most players (and very different from the balance found otherwise in the vanilla early game).
 
 ### Less levels per shard
 
-While not exactly a balance concern in the traditional sense, I found playing with two shards only to be closer to the balance of exploration and downtime found when playing the acts in Grim Dawn. There is a better dynamic when it comes to the variery of exploration and boss fights and later, inventory management and theorycrafting.
+As a matter of personal preference, I found playing with two shards only to be closer to the balance of exploration and downtime found when playing the acts in Grim Dawn. There is a better dynamic when it comes to the variery of exploration and boss fights and later, inventory management and theorycrafting.
 
 Less levels also allow players to build their starting characters more progressively, gaining less experience and level-ups in a row per shard. Grim Dawn theory-crafting works better by identifying weaknesses and strengths and building accordingly a few steps at a time, rather than having to level up all the way to level 15 in two shards (or at least when you're theorycrafting on-the-go and not relying on a build guide).
 
