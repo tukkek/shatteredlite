@@ -1,4 +1,4 @@
-# Shatteredlite
+![Logo](image/logo.medium.jpg)
 
 Are you tired of going through Act 1 every single time you begin a new playthrough of [Grim Dawn](https://www.grimdawn.com)? **Shatteredlite** is a mod for Grim Dawn's [Shattered Realm](https://grimdawn.fandom.com/wiki/The_Shattered_Realm), allowing you to enjoy more immediate content variety and to **play the game as a roguelite**.
 
