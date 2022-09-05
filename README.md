@@ -49,7 +49,7 @@ While there are alternatives to accessing more content early on, they are all cl
 
 ## Balance
 
-Shatteredlite has been tested under a variety of masteries and character builds for [solo-self-found](https://pathofexile.fandom.com/wiki/Solo_Self-Found), hardcore-mode-friendly balance. It is not necessarily easy or fast at first but very doable and overall much faster to level in, compared to completing all the main quests in Act 1.
+Shatteredlite has been tested under a variety of masteries and character builds for Normal difficulty, [solo-self-found](https://pathofexile.fandom.com/wiki/Solo_Self-Found), hardcore-mode-friendly balance. It is not necessarily easy or fast at first but very doable and overall much faster to level in, compared to completing all the main quests in Act 1.
 
 Players who find this mod too hard even after following the guidelines here are encouraged to clear a little more of Act 1 for extra experience, gear, consumbales and bits to shop with before entering the Shattered Realm proper. Following a [build guide](https://forums.crateentertainment.com/t/build-compendium-x-forgotten-gods/49673) might help as well for those struggling to survive in early-level SR.
 
