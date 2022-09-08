@@ -34,7 +34,7 @@ If you enjoy this mod or want to provide feedback and discuss ideas, consider dr
 
 ## Rationale
 
-With DLC, Grim Dawn offers multiple paths to take after finishing the first part of the story but Act 1 is always the same and eventually gets stale, even with the many differences between each palythrough. It's also long, [taking the best players in the community one or two hours to beat](https://youtu.be/Uir5qz5UB0I). That is quite long for a mandatory tutorial of sorts, especially for those players looking for a more [roguelite](https://youtu.be/-cu5RkWoW2M) experience.
+With DLC, Grim Dawn offers multiple paths to take after finishing the first part of the story but Act 1 is always the same and eventually gets stale, even with the many differences between each playthrough. It's also long, [taking the best players in the community one or two hours to beat](https://youtu.be/Uir5qz5UB0I). That is quite long for a mandatory tutorial of sorts, especially for those players looking for a more [roguelite](https://youtu.be/-cu5RkWoW2M) experience.
 
 After all, why shouldn't Grim Dawn be a roguelite? It has unlimited possibilites for character builds and theorycrafting, a hardcore mode, loot and even a lot of procedural generation - even if maps are static (a shortcoming that the Shattered Realm also mitigates with its many random levels).
 
@@ -50,11 +50,11 @@ Players who find this mod too hard even after following the guidelines here are 
 
 Upon reaching level 15, vanilla balance can be assumed as this is the minimum level a player is expected to start playing Act 7 after finishing the main quests in Act 1.
 
-### Clearing the burial cave
+### Clearing the Burial Cave
 
 This suggested optional step before delving into the Shattered Realm proper boils down to a single major concern: having enough area-of-effect damage to tackle the increased enemy density inside the SR shards.
 
-Making a bee-line to the burial cave while killing monsters and looting chests along the way is more than likely to grant you enough experience for level 5, which then unlocks a number of options in [components](https://grimdawn.fandom.com/wiki/Components) - most of which designed specifically to grant the player an area-of-effect skill.
+Making a bee-line to the Burial Cave while killing monsters and looting chests along the way is more than likely to grant you enough experience for level 5, which then unlocks a number of options in [components](https://grimdawn.fandom.com/wiki/Components) - most of which designed specifically to grant the player an area-of-effect skill.
 
 Doing this very-early route will also grant the player enough items to gear up to tackle their first shard; probably one or more of the needed area-of-effect components and hopefully enough [iron bits](https://grimdawn.fandom.com/wiki/Components) to purchase any shortcoming off of the shops in Devil's Crossing or at the Conclave.
 
@@ -62,7 +62,7 @@ Doing this very-early route will also grant the player enough items to gear up t
 
 Upon speaking to the Emissary, players are now given a number of tonics and elixirs, much needed to tackle their first shard. For purists, the amount given here may seem excessive so let's examine the reasoning involved.
 
-Upon finishing your first shard in Shatterfield, players are rewarded with a number of chests and a Devotion Shrine. The most purchasing power here comes from the iron bits dropped from the chests: around $10,000. Split roughly evenly between tonics and elixirs, you get those added Emissary freebies.
+Upon finishing your first shard in Shatteredlite, players are rewarded with a number of chests and a Devotion Shrine. The most purchasing power here comes from the iron bits dropped from the chests: around $10,000. Split roughly evenly between tonics and elixirs, you get those added Emissary freebies.
 
 In other words: the amount given is roughly equivalent to getting one shard-worth of iton bits "in advance" (scaled to an extremely low level too). This seems to be very minimal impact to balance, especially when consumables become practically free early in the game with players being expected to have access to an unlimited stock of them.
 
