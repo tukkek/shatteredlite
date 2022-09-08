@@ -30,12 +30,7 @@ Your operating system should come with a default archive tool but [7zip](https:/
 
 ## Contact and support
 
-If you enjoy this mod or want to provide feedback and discuss ideas, consider dropping by to say hi!
-
-* Discord
-* Steam discussion
-
-Patreon?
+If you enjoy this mod or want to provide feedback and discuss ideas, consider dropping by [Discord](https://discord.gg/5sXXcwPCSP) to say hi!
 
 ## Rationale
 
