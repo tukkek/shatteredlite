@@ -2,11 +2,12 @@
 
 Are you tired of going through Act 1 every single time you begin a new playthrough of [Grim Dawn](https://www.grimdawn.com)? **Shatteredlite** is a mod for Grim Dawn's [Shattered Realm](https://grimdawn.fandom.com/wiki/The_Shattered_Realm), allowing you to enjoy more immediate content variety and to **play the game as a roguelite**.
 
-Features:
+**Features**:
 
 * Access to the Shattered Realm in as little as a minute after starting a new playthrough!
-* A few dozen free tonics and elixirs to help a low-level character tackle the dangers within early-on.
+* Devotion points can be purchased from Mazaan and the devotion point cap has been removed.
 * Only 2 levels per shard instead of the 3 in vanilla.
+* A few dozen free tonics and elixirs and an inventory tab.
 
 ## How to install
 
