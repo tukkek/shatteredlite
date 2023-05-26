@@ -86,3 +86,11 @@ As a matter of personal preference, I found playing with two shards only to be c
 Less levels also allow players to build their starting characters more progressively, gaining less experience and level-ups in a row per shard. Grim Dawn theory-crafting works better by identifying weaknesses and strengths and building accordingly a few steps at a time, rather than having to level up all the way to level 15 in two shards (or at least when you're theorycrafting on-the-go and not relying on a build guide).
 
 Another way having 3 shards in a row is different than the early game is that you are not freely able go back to town and stock up on consumables - this is more of an issue very early on, as it's the only point in the game when players don't have access to a practically-unlimited amount of consumables. In comparison, you can go back to town and spend any iron bits you found on tonics and elixirs at literally any time you're not in active combat during the main quests in Act 1.
+
+### Devotions
+
+The approach to devotions is vastly different from the base game. They are a very cheap way to achieve power that also inherently scales further without more investment. The abilty to easily gain more devotion points beyond the cap of the vanilla game and from there get every devotion available further reinforces that.
+
+While this would trivialize the campaign acts, the Shattered Realm is self-balancing in the sense that players can push for much harder content than in the base game - either by using waystones to access content usually only reserved for min-maxed, pre-planned builds or by doing endurance-style runs from the first shard.
+
+In other words, leveraging devotions allows for a rogue-lite experience that is much faster, with more theory-crafting options and that allows low-level characters to access more content from the Shattered Realm earlier. If other avenues are found to achieve these goals, devotion access can then be reigned back.
