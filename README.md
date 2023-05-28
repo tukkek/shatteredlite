@@ -5,8 +5,9 @@ Are you tired of going through Act 1 every single time you begin a new playthrou
 **Features**:
 
 * Access to the Shattered Realm in as little as a minute after starting a new playthrough!
-* Devotion points can be purchased from Mazaan and the devotion point cap has been removed.
-* Only 2 levels per shard instead of the 3 in vanilla.
+* All shards unlocked - no need for waystones!
+* Devotion points can be purchased from Mazaan, devotion point limit has been removed
+* Only 1 level per shard (plus boss fight)
 * A few dozen free tonics and elixirs and an inventory tab.
 
 ## How to install
