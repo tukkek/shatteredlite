@@ -12,3 +12,7 @@
 * Limit on maximum devotion points has been removed
 * Unlocking Act 7 now gives player an inventory tab
 
+**1.3** (2023-05-28)
+
+* Only 1 floor per shard (plus boss fight)
+* All shards are unlocked, waystones not needed
