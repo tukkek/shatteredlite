@@ -101,6 +101,8 @@ Another way having 3 floors in a row is different than the campaign is that you 
 
 The approach to devotions is vastly different from the base game. They are a very cheap way to achieve power that also inherently scales further without more investment. The abilty to easily gain more devotion points beyond the cap of the vanilla game and from there get every devotion available further reinforces that.
 
+Buying devotion points with iron bits also gives lower- to mid-level characters a more interesting way to spend iron bits than shopping for minimal lower-rarity upgrades to the unique items they can get from the SR rewards. It also allows players "stuck" in a shard to always make progress towards more power gain, further benefitting the pacing.
+
 While this would trivialize the campaign acts, the Shattered Realm is self-balancing in the sense that players can push for much harder content than in the base game - either by using waystones to access content usually only reserved for min-maxed, pre-planned builds or by doing longer endurance-style runs from the first shard.
 
 In other words, leveraging devotions allows for a rogue-lite experience that is much faster, with more theory-crafting options and that allows low-level characters to access more content from the Shattered Realm earlier. If other avenues are found to achieve these goals, devotion access can then be reigned back.
