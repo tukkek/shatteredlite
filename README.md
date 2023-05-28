@@ -67,7 +67,7 @@ Making a bee-line to the Burial Cave while killing monsters and looting chests a
 
 Doing this very-early route will also grant the player enough items to gear up to tackle their first shard; probably one or more of the needed area-of-effect components and hopefully enough [iron bits](https://grimdawn-archive.fandom.com/wiki/Iron_Bits) to purchase any shortcoming off of the shops in Devil's Crossing or at the Conclave.
 
-### Free consumables
+### Free consumables and bag
 
 Upon speaking to the Emissary, players are now given a number of tonics and elixirs, much needed to tackle their first shard. For purists, the amount given here may seem excessive so let's examine the reasoning involved.
 
@@ -80,6 +80,8 @@ Players who disagree with this assessment can discard the freebies received and 
 Testing a variety of builds has shown the freebies to be necessary - being barely enough to complete the first shard when using consumables liberally and somewhat less so when being more frugal and mindful during gameplay.
 
 Attempting a first shard without any extra consumables is doable but requires a lot of kiting, active management of constitution and food rations or vital essences drops. Some character builds will also struggle more than others (for example, those depending on close-range weapon attacks). This is doable but more like a "nightmare mode" that wouldn't be welcoming to most players (and very different from the balance found otherwise in the vanilla early game).
+
+The extra inventory tab replaces the one received in the early Devil Crossing water-pump quest in Act 1, as more bags cannot be found in the Shattered Realm.
 
 ### Less floors
 
