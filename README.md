@@ -81,13 +81,19 @@ Testing a variety of builds has shown the freebies to be necessary - being barel
 
 Attempting a first shard without any extra consumables is doable but requires a lot of kiting, active management of constitution and food rations or vital essences drops. Some character builds will also struggle more than others (for example, those depending on close-range weapon attacks). This is doable but more like a "nightmare mode" that wouldn't be welcoming to most players (and very different from the balance found otherwise in the vanilla early game).
 
-### Less levels per shard
+### Less floors
 
-As a matter of personal preference, I found playing with two shards only to be closer to the balance of exploration and downtime found when playing the acts in Grim Dawn. There is a better dynamic when it comes to the variery of exploration and boss fights and later, inventory management and theorycrafting.
+Arguably the biggest change from vanilla Shattered Realm, this is absolutely necessary to implement the much more short-term rogue-lite approach to playng a character than that of the base game which expects players to beat the campaign acts three times in a row. While some outlier builds can progress very fast, especially early on (or maybe if following a pre-planned build guide as well), the less optimized solo-self-found builds would be painfully slow for the rogue-lite pacing of the mod, even with only 2 floors.
 
-Less levels also allow players to build their starting characters more progressively, gaining less experience and level-ups in a row per shard. Grim Dawn theory-crafting works better by identifying weaknesses and strengths and building accordingly a few steps at a time, rather than having to level up all the way to level 15 in two shards (or at least when you're theorycrafting on-the-go and not relying on a build guide).
+The single-floor approach also highlights the most unique feature of the Shattered Realm compared to the campaign and Crucible: the dedicated multi-boss fights, whose ample permutations fit particularly well into a rogue-lite mod. In this way, the non-boss floors act almost like a breather between more frequent high-intensity boss fights than being the vast bulk of the content as it is in the vanilla game.
 
-Another way having 3 shards in a row is different than the early game is that you are not freely able go back to town and stock up on consumables - this is more of an issue very early on, as it's the only point in the game when players don't have access to a practically-unlimited amount of consumables. In comparison, you can go back to town and spend any iron bits you found on tonics and elixirs at literally any time you're not in active combat during the main quests in Act 1.
+There is a downside to that, which is that character builds are more incentivized to become boss-killers than speed-clearers more focused on killing packs of mobs. This isn't necessarily bad as much as different, but certainly less intentional than the deliberate original pacing. Speed-clear is still somewhat necessary and benefitial, but less so.
+
+The lower number of floors is also highly helpful in allowing players to reach deeper shards faster on the given time, with average builds taking only a couple tries to clear the first couple shards or so on time. This is important to allow players to find their optimal challenge level without being gated by the arbitrary timer, while also providing better rewards earlier for faster progression. Otherwise, even mid-level SSF builds would struggle to make progress deeper into the further shards in the game.
+
+SR is overtly balanced for optimized high-level characters, with many of its intended rewards being exclusive to levels 50 (movement augments) to 94 (item set). These changes, while a departure from vanilla balance, also allow fresh characters to experience the SR in a manner roughly equivalent to its intended gameplay, while also offering much faster progression for maximum theory-crafting potential and more freedom for players to choose the balance between risk and rewards most suited to their own play-style.
+
+Another way having 3 floors in a row is different than the campaign is that you are not freely able go back to town and stock up on consumables - this is more of an issue very early on, as it's the only point in the game when players don't have access to a practically-unlimited amount of consumables. In comparison, you can go back to town and spend any iron bits you found on tonics and elixirs at literally any time you're not in active combat during the main quests in Act 1.
 
 ### Devotions
 
