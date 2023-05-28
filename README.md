@@ -55,9 +55,9 @@ Upon reaching level 15, vanilla balance can be assumed as this is the minimum le
 
 ### Goals
 
-The goal for Shatteredlite is to allow experienced players leveling up to 50 to do so semi-casually, in a solo-self-found manner in around 4-5 hours with a fresh start (no stash, merits)... While close to that (as of version 1.2), this is still a work-in-progress. From there, leveling to 100 in another 4-5 hours is a secondary goal.
+The goal for Shatteredlite is to allow experienced players leveling up to 50 on normal difficulty, to do so semi-casually, in a solo-self-found manner in around 4 hours with a fresh start (no stash, merits)... While close to that, this is still a work-in-progress. From there, leveling to 100 in another 4 hours is a secondary goal.
 
-The huge variance in loot drops and build variety in the game and also in player skill and knowledge makes these goals somewhat hard to measure objectviely. The time necessary to do multiple full runs is also prohibitive for a hobby project. As such, the best possible approach is to rely on anecdotal experience and feedback.
+The huge variance in loot drops and build variety in the game and also in player skill and knowledge makes these goals somewhat hard to measure objectively. The time necessary to do multiple full runs is also prohibitive for a hobby project. As such, the best possible approach is to rely on anecdotal experience and feedback.
 
 ### Clearing the Burial Cave
 
