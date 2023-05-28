@@ -12,8 +12,9 @@ Are you tired of going through Act 1 every single time you begin a new playthrou
 
 ## How to install
 
-1. [Download the latest release of Shatteredlite](https://github.com/tukkek/shatteredlite/releases/latest/).
-2. Extract the ZIP file inside Grim Dawn's `mods` folder.
+1. Make sure you have [the Forgotten Gods DLC](https://grimdawn.fandom.com/wiki/Forgotten_Gods) installed
+2. [Download the latest release of Shatteredlite](https://github.com/tukkek/shatteredlite/releases/latest/)
+3. Extract the ZIP file inside Grim Dawn's `mods/` folder
 
 If you are using [Steam](https://store.steampowered.com), to find the game's installation you can right-click on *Grim Dawn* in your games list and select *Manage → Browse local files*. It should look something like this:
 
