@@ -85,7 +85,7 @@ The extra inventory tab replaces the one received in the early Devil Crossing wa
 
 ### Less floors
 
-Arguably the biggest change from vanilla Shattered Realm, this is absolutely necessary to implement the much more short-term rogue-lite approach to playng a character than that of the base game which expects players to beat the campaign acts three times in a row. While some outlier builds can progress very fast, especially early on (or maybe if following a pre-planned build guide as well), the less optimized solo-self-found builds would be painfully slow for the rogue-lite pacing of the mod, even with only 2 floors.
+Arguably the biggest change from vanilla Shattered Realm, this is absolutely crucial to implement the much more short-term rogue-lite approach to playng a character than that of the base game which expects players to beat the campaign acts three times in a row. While some outlier builds can progress very fast, especially early on (or maybe if following a pre-planned build guide as well), the less optimized solo-self-found builds would be painfully slow for the rogue-lite pacing of the mod, even with only 2 floors.
 
 The single-floor approach also highlights the most unique feature of the Shattered Realm compared to the campaign and Crucible: the dedicated multi-boss fights, whose ample permutations fit particularly well into a rogue-lite mod. In this way, the non-boss floors act almost like a breather between more frequent high-intensity boss fights than being the vast bulk of the content as it is in the vanilla game.
 
