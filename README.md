@@ -65,7 +65,7 @@ This suggested optional step before delving into the Shattered Realm proper boil
 
 Making a bee-line to the Burial Cave while killing monsters and looting chests along the way is more than likely to grant you enough experience for level 5, which then unlocks a number of options in [components](https://grimdawn.fandom.com/wiki/Components) - most of which designed specifically to grant the player an area-of-effect skill.
 
-Doing this very-early route will also grant the player enough items to gear up to tackle their first shard; probably one or more of the needed area-of-effect components and hopefully enough [iron bits](https://grimdawn.fandom.com/wiki/Components) to purchase any shortcoming off of the shops in Devil's Crossing or at the Conclave.
+Doing this very-early route will also grant the player enough items to gear up to tackle their first shard; probably one or more of the needed area-of-effect components and hopefully enough [iron bits](https://grimdawn-archive.fandom.com/wiki/Iron_Bits) to purchase any shortcoming off of the shops in Devil's Crossing or at the Conclave.
 
 ### Free consumables
 
