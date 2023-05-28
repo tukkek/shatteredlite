@@ -39,11 +39,11 @@ If you enjoy this mod or want to provide feedback and discuss ideas, consider dr
 
 With DLC, Grim Dawn offers multiple paths to take after finishing the first part of the story but Act 1 is always the same and eventually gets stale, even with the many differences between each playthrough. It's also long, [taking the best players in the community one or two hours to beat](https://youtu.be/Uir5qz5UB0I). That is quite long for a mandatory tutorial of sorts, especially for those players looking for a more [roguelite](https://youtu.be/-cu5RkWoW2M) experience.
 
-After all, why shouldn't Grim Dawn be a roguelite? It has unlimited possibilites for character builds and theorycrafting, a hardcore mode, loot and even a lot of procedural generation - even if maps are static (a shortcoming that the Shattered Realm also mitigates with its many random levels).
+After all, why shouldn't Grim Dawn be a roguelite? It has unlimited possibilites for character builds and theorycrafting, a hardcore mode, loot and even a lot of procedural generation - even if maps are largely static (a shortcoming that the Shattered Realm also mitigates with its many random levels).
 
-Unlocking the Shattered Realm early provides access to over 70 different maps and deeper gameplay compared to early open-world leveling. It's the closest experience to a true roguelite you can get in Grim Dawn, while leveraging the official content already in the game for the most balance and polish.
+Unlocking the Shattered Realm early provides access to over 70 different maps and deeper gameplay compared to leveling in the first acts. It's the closest experience to a true roguelite you can get in Grim Dawn, while leveraging the official content already in the game for the most balance and polish.
 
-While there are alternatives to accessing more content early on, they are all clunky, meta-gamey and often hurting early-game balance and progression. The players who are even aware they exist use those because it's the lesser of two evils, not necessarily because they're enjoyable or the best approach to increasing early replay-value.
+While there are alternatives to accessing more content early on, they are all clunky, meta-gamey and often hurting early-game balance and progression. The players who are even aware they exist use those because it's the lesser of two evils, not necessarily because they're enjoyable or the best approach to increasing early-game replay-value.
 
 ## Balance
 
