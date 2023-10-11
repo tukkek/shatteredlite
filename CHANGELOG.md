@@ -27,5 +27,5 @@
   * 20,000 iron bits
   * An inventory tab
 * Removed Emissary rewards
-* Malazan's dialogue choices reorganized to be more intuitive
-* The Emissary now spawns without needing to quit to main menu
+* Malazan's dialogue choices were reorganized to be more intuitive
+* The Emissary now spawns without needing to quit to the main menu
