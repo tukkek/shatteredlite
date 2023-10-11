@@ -16,3 +16,16 @@
 
 * Only 1 floor per shard (plus boss fight)
 * All shards are unlocked, waystones not needed
+
+**1.4** (2023-10-11)
+
+* Shards unlock like in vanilla again but without needing waystones
+* Talking to Bourbon now grants:
+  * Experience up to level 5
+  * A full stack of tonics
+  * A full stack of elixirs
+  * 20,000 iron bits
+  * An inventory tab
+* Removed Emissary rewards
+* Malazan's dialogue choices reorganized to be more intuitive
+* The Emissary now spawns without needing to quit to main menu
