@@ -6,10 +6,10 @@ Are you tired of going through Act 1 every single time you begin a new playthrou
 
 * Access to the Shattered Realm in as little as a minute after starting a new playthrough!
 * Much faster progression compared to the base game and vanilla Shattered Realm!
-* All shards unlocked - no need for waystones!
-* Devotion points can be purchased from Mazaan, devotion point limit has been removed!
-* Only 1 level per shard (plus boss fight)!
-* A few dozen tonics and elixirs and inventory bag to jump-start your journey!
+* Devotion points can be purchased from Mazaan, with the devotion point limit removed!
+* An adventurer's pack to start your journey, with tonics, elixirs, experience and iron!
+* Deeper shards can be accessed after unlocked without needing waystones!
+* Only 1 level per shard (plus boss fight).
 
 ## How to install
 
@@ -27,10 +27,9 @@ Your operating system should come with a default archive tool but [7zip](https:/
 
 1. Create a new character, making sure you select the custom game *Shatteredlite*.
 2. Talk to Bourbon and use the new dialog option to refuse to help Devil's Crossing.
-3. Optional: play normally until the Burial Cave and clear it to obtain a decent set of starting items and enough experience to reach level 5.
-4. Quit to the main menu and enter Shatteredlite again (this is necessary to spawn the Emissary at Devil's Crossing).
-5. Talk to the Emissary to gain passage and go to the Conclave of the Three.
-6. Talk directly to Mazaan who will now open the Shattered Realm without need for any further tasks.
+3. Shop for an initial set of gear and components to help you tackle your first shard.
+4. Talk to the Emissary to gain entry then go to the Conclave of the Three.
+5. Talk directly to Mazaan who will immediately open the Shattered Realm.
 
 ## Contact and support
 
@@ -60,29 +59,17 @@ The goal for Shatteredlite is to allow experienced players leveling up to 50 on 
 
 The huge variance in loot drops and build variety in the game and also in player skill and knowledge makes these goals somewhat hard to measure objectively. The time necessary to do multiple full runs is also prohibitive for a hobby project. As such, the best possible approach is to rely on anecdotal experience and feedback.
 
-### Clearing the Burial Cave
+### Initial rewards from Bourbon
 
-This suggested optional step before delving into the Shattered Realm proper boils down to a single major concern: having enough area-of-effect damage to tackle the increased enemy density inside the SR shards.
+These were introduced in version 1.4 and are a significant boon compared to the previous starting kit (then granted by the Emissary).
 
-Making a bee-line to the Burial Cave while killing monsters and looting chests along the way is more than likely to grant you enough experience for level 5, which then unlocks a number of options in [components](https://grimdawn.fandom.com/wiki/Components) - most of which designed specifically to grant the player an area-of-effect skill.
+The initial approach was to provide a "bare minimum" set of resources that would allow every build to start tackling the Shattered Realm (some more or less effectively) - this was a conservative method, trying to stay as close to vanilla balance as realistic while still making SR-only runs possible.
 
-Doing this very-early route will also grant the player enough items to gear up to tackle their first shard; probably one or more of the needed area-of-effect components and hopefully enough [iron bits](https://grimdawn-archive.fandom.com/wiki/Iron_Bits) to purchase any shortcoming off of the shops in Devil's Crossing or at the Conclave.
+Extensive playtesting since version 1.0 showed that while 100% feasible, this lead to a fairly stale early game. The new, more generous approach to free resources aims to shorten the early progression by half, serving as a shortcut to the more strategic theory-crafting moments while still maintaning some of that slower ramp-up at the start.
 
-### Free consumables and bag
+The amount of 20,000 iron bits is enough to purchase a full set of magic gear at the Devil's Crossing shop, allowing for some interesting decision-making at the very start. The experience given to reach level 5 is also deliberate, as it allows obtaining and using components with area-of-effect skills, which are crucial for some builds early on. The inventory bag is a replacement for the water-pump quest in Act 1, which cannot be obtained within the Shattered Realm.
 
-Upon speaking to the Emissary, players are now given a number of tonics and elixirs, much needed to tackle their first shard. For purists, the amount given here may seem excessive so let's examine the reasoning involved.
-
-Upon finishing your first shard in Shatteredlite, players are rewarded with a number of chests and a Devotion Shrine. The most purchasing power here comes from the iron bits dropped from the chests: around $10,000. Split roughly evenly between tonics and elixirs, you get those added Emissary freebies.
-
-In other words: the amount given is roughly equivalent to getting one shard-worth of iton bits "in advance" (scaled to an extremely low level too). This seems to be very minimal impact to balance, especially when consumables become practically free early in the game with players being expected to have access to an unlimited stock of them.
-
-Players who disagree with this assessment can discard the freebies received and acquire their own at the Lower Crossing and beyond (or alter the mod to their taste).
-
-Testing a variety of builds has shown the freebies to be necessary - being barely enough to complete the first shard when using consumables liberally and somewhat less so when being more frugal and mindful during gameplay.
-
-Attempting a first shard without any extra consumables is doable but requires a lot of kiting, active management of constitution and food rations or vital essences drops. Some character builds will also struggle more than others (for example, those depending on close-range weapon attacks). This is doable but more like a "nightmare mode" that wouldn't be welcoming to most players (and very different from the balance found otherwise in the vanilla early game).
-
-The extra inventory tab replaces the one received in the early Devil Crossing water-pump quest in Act 1, as more bags cannot be found in the Shattered Realm.
+Players who find the initial resources too plentiful are welcome to discard part of them before venturing into Act 7.
 
 ### Less floors
 
