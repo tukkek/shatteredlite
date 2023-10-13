@@ -94,3 +94,9 @@ Buying devotion points with iron bits also gives lower- to mid-level characters 
 While this would trivialize the campaign acts, the Shattered Realm is self-balancing in the sense that players can push for much harder content than in the base game - either by using waystones to access content usually only reserved for min-maxed, pre-planned builds or by doing longer endurance-style runs from the first shard.
 
 In other words, leveraging devotions allows for a rogue-lite experience that is much faster, with more theory-crafting options and that allows low-level characters to access more content from the Shattered Realm earlier. If other avenues are found to achieve these goals, devotion access can then be reigned back.
+
+### Quest rewards
+
+Eldritch Essences rewarded by Shattered Realm quests were replaced with iron bits (an Iron Bar's worth per Essence). Since Essences are no longer needed to craft Waystones to access deeper shards, they are less immediately useful for lower level characters and that extra boon can either be spent or exchanged for Iron Bars and stashed by players who want to convert them into meta-progression.
+
+No other loot-table was altered so Essences needed for crafting recipes can still be farmed where they'd natually spawn, including from non-quest SR rewards.
