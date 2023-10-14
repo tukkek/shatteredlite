@@ -9,6 +9,7 @@ Are you tired of going through Act 1 every single time you begin a new playthrou
 * Devotion points can be purchased from Mazaan, with the devotion point limit removed!
 * An adventurer's pack to start your journey, with tonics, elixirs, experience and iron!
 * Deeper shards can be accessed after unlocked without needing waystones!
+* Garrus, Keeper of Iron now also sells stacks of scrap.
 * Only 1 level per shard (plus boss fight).
 
 ## How to install
@@ -100,3 +101,5 @@ In other words, leveraging devotions allows for a rogue-lite experience that is 
 Eldritch Essences rewarded by Shattered Realm quests were replaced with iron bits (an Iron Bar's worth per Essence). Since Essences are no longer needed to craft Waystones to access deeper shards, they are less immediately useful for lower level characters and that extra boon can either be spent or exchanged for Iron Bars and stashed by players who want to convert them into meta-progression.
 
 No other loot-table was altered so Essences needed for crafting recipes can still be farmed where they'd natually spawn, including from non-quest SR rewards.
+
+Another use for these iron rewards is to exchange them for scrap metal with Garrus, the Keeper of Iron. This in turn allows players to craft enchanted items liberally at the Conclave's blacksmith, which can generate very powerful items with double-rare affixes!

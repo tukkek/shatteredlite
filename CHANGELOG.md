@@ -21,6 +21,7 @@
 
 * Shards unlock like in vanilla again but without needing waystones
 * SR Eldritch Essence quest rewards replaced with iron bits
+* Garrus, Keeper of Iron now also sells stacks of scrap
 * Talking to Bourbon now grants:
   * Experience up to level 5
   * A full stack of tonics
