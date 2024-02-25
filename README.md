@@ -36,6 +36,8 @@ Your operating system should come with a default archive tool but [7zip](https:/
 
 If you enjoy this mod or want to provide feedback and discuss ideas, consider dropping by [Discord](https://discord.gg/5sXXcwPCSP) to say hi!
 
+In case you experience infrequent crashes or freezes, that is a known issue in the 64-bit version of the game that affects only the Shattered Realm. Try using the 32-bit version instead by launching the `Grim Dawn/Grim Dawn.exe` file or with the *Play Grim Dawn* option on Steam.
+
 ## Rationale
 
 With DLC, Grim Dawn offers multiple paths to take after finishing the first part of the story but Act 1 is always the same and eventually gets stale, even with the many differences between each playthrough. It's also long, [taking the best players in the community one or two hours to beat](https://youtu.be/Uir5qz5UB0I). That is quite long for a mandatory tutorial of sorts, especially for those players looking for a more [roguelite](https://youtu.be/-cu5RkWoW2M) experience.
