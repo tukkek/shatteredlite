@@ -4,17 +4,19 @@ Are you tired of going through Act 1 every single time you begin a new playthrou
 
 **Features**:
 
-* Access to the Shattered Realm in as little as a minute after starting a new playthrough!
-* A journeyman's pack to start your journey with: tonics, elixirs, experience and iron!
-* Much faster progression compared to the base game and vanilla Shattered Realm!
+* Enter the Shattered Realm as-soon as you start a new play-through!
+* An initial journey-man's pack with: tonics; elixirs; experience; and iron!
+* Much-faster progression compared to the base-game and vanilla Shattered Realm!
 * Get all of your devotions in the Shattered Realm!
-    * 7 devotion points up-front to get your runs started!
-    * 50 points are awarded by SR quests, more sold by Mazaan 
-    * Maximum devotion limit is removed
-* Vendors now will also sell materials, common and rare - check their stocks often!
-* Deeper shards can be accessed after unlocked without needing waystones!
-* Garrus, Keeper of Iron now also sells stacks of scrap.
-* Only 1 level per shard (plus boss fight).
+  * 7 devotion points up-front to get your runs started!
+  * 50 points are awarded by SR quests, more sold by Mazaan.
+  * Maximum-limit for devotions removed.
+* Vendors:
+  *  Now also sell materials common and rare. Check their stocks often!
+  *  Immediate-access to the inventor on Act 7.
+  *  Garrus, Keeper Of Iron now sells stacks of scrap.
+* Deeper-shards can be accessed without way-stones after unlocked!
+* Only 1 level per-shard (plus boss-fight).
 
 ## How to install
 
